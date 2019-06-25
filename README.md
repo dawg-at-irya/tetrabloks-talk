@@ -28,3 +28,23 @@ Different use cases for the algorithm.
 ![Application I: before](slides/tb.005.jpeg "Application I: before")
 ![Application I: after](slides/tb.006.jpeg "Application I: after")
 
+### Application II - noisy ratio ###
+
+![Application II: 1x1](slides/tb.007.jpeg "Application II: 1x1")
+![Application II: 4x4](slides/tb.008.jpeg "Application II: 4x4")
+![Application II: 16x16](slides/tb.009.jpeg "Application II: 16x16")
+![Application II: 64x64](slides/tb.010.jpeg "Application II: 64x64")
+
+![Application II: S/N=10](slides/tb.011.jpeg "Application II: S/N=10")
+![Application II: S/N=100](slides/tb.012.jpeg "Application II: S/N=100")
+
+### Application III - slit spectra ###
+
+![Application III: original slits](slides/tb.013.jpeg "Application III: original slits")
+![Application III: multibinning](slides/tb.014.jpeg "Application III: multibinning")
+![Application III: high velocities](slides/tb.015.jpeg "Application III: high velocities")
+
+### Tetrapak + Megabloks = Tetrabloks ###
+
+![Tetrapak + Megabloks = Tetrabloks](slides/tb.016.jpeg "Tetrapak + Megabloks = Tetrabloks")
+
